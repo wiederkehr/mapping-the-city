@@ -1,1 +1,0 @@
-alert "Hello from assets/javascripts/app-1/main.js.coffee"
