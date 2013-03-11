@@ -1,0 +1,177 @@
+[
+{
+ "municipality": "Wiedikon",
+ "name": "total", "amount": 22,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 2
+    },
+    {
+     "name": "rooms_3", "amount": 7
+    },
+    {
+     "name": "rooms_4", "amount": 13
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ]
+},
+
+{
+ "municipality": "Albisrieden",
+ "name": "total", "amount": 6,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 2
+    },
+    {
+     "name": "rooms_4", "amount": 4
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ]
+},
+
+{
+ "municipality": "Altstetten",
+ "name": "total", "amount": 4,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 2
+    },
+    {
+     "name": "rooms_3", "amount": 1
+    },
+    {
+     "name": "rooms_4", "amount": 1
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ]
+},
+
+{
+ "municipality": "Dietikon",
+ "name": "total", "amount": 65,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 3
+    },
+    {
+     "name": "rooms_2", "amount": 4
+    },
+    {
+     "name": "rooms_3", "amount": 17
+    },
+    {
+     "name": "rooms_4", "amount": 26
+    },
+    {
+     "name": "rooms_5", "amount": 15
+    }
+  ]
+},
+
+{
+ "municipality": "Oetwil",
+ "name": "total", "amount": 8,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 3
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 1
+    },
+    {
+     "name": "rooms_4", "amount": 2
+    },
+    {
+     "name": "rooms_5", "amount": 2
+    }
+  ]
+},
+
+{
+ "municipality": "Schlieren",
+ "name": "total", "amount": 6,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 4
+    },
+    {
+     "name": "rooms_4", "amount": 2
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ]
+},
+
+{
+ "municipality": "Urdorf",
+ "name": "total", "amount": 26,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 7
+    },
+    {
+     "name": "rooms_2", "amount": 1
+    },
+    {
+     "name": "rooms_3", "amount": 8
+    },
+    {
+     "name": "rooms_4", "amount": 7
+    },
+    {
+     "name": "rooms_5", "amount": 3
+    }
+  ]
+},
+
+{
+ "municipality": "Spreitenbach",
+ "name": "total", "amount": 23,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 2
+    },
+    {
+     "name": "rooms_2", "amount": 7
+    },
+    {
+     "name": "rooms_3", "amount": 5
+    },
+    {
+     "name": "rooms_4", "amount": 4
+    },
+    {
+     "name": "rooms_5", "amount": 5
+    }
+  ]
+}
+]

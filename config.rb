@@ -56,15 +56,15 @@ end
 #   end
 # end
 
-set :js_dir, 'assets/app/javascripts'
-set :css_dir, 'assets/app/stylesheets'
-set :images_dir, 'assets/app/images'
+set :js_dir, 'assets/javascripts'
+set :css_dir, 'assets/stylesheets'
+set :images_dir, 'assets/images'
 
 # Add Bower components to Sprockets/SASS
 set :js_assets_paths, ["#{root}/components"]
 set :sass_assets_paths, ["#{root}/lib/assets/stylesheets", "#{root}/components"]
 
-set :template_dir, 'assets/app/javascripts/templates'
+set :template_dir, 'assets/javascripts/templates'
 
 configure :development do
   activate :livereload

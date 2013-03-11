@@ -1,0 +1,379 @@
+[
+{
+ "municipality": "Wiedikon",
+ "name": "total", "amount": 22,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 2
+    },
+    {
+     "name": "rooms_3", "amount": 7
+    },
+    {
+     "name": "rooms_4", "amount": 13
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 17
+      },
+      {
+       "year": "2008", "amount": 6
+      },
+      {
+       "year": "2009", "amount": 5
+      },
+      {
+       "year": "2010", "amount": 13
+      },
+      {
+       "year": "2011", "amount": 4
+      },
+     {
+      "year": "2012", "amount": 22
+     }
+    ]
+},
+
+{
+ "municipality": "Albisrieden",
+ "name": "total", "amount": 6,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 2
+    },
+    {
+     "name": "rooms_4", "amount": 4
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 13
+      },
+      {
+       "year": "2008", "amount": 3
+      },
+      {
+       "year": "2009", "amount": 3
+      },
+      {
+       "year": "2010", "amount": 4
+      },
+      {
+       "year": "2011", "amount": 9
+      },
+      {
+       "year": "2012", "amount": 6
+      }
+    ]
+},
+
+{
+ "municipality": "Altstetten",
+ "name": "total", "amount": 4,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 2
+    },
+    {
+     "name": "rooms_3", "amount": 1
+    },
+    {
+     "name": "rooms_4", "amount": 1
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 8
+      },
+      {
+       "year": "2008", "amount": 5
+      },
+      {
+       "year": "2009", "amount": 4
+      },
+      {
+       "year": "2010", "amount": 5
+      },
+      {
+       "year": "2011", "amount": 10
+      } ,
+       {
+        "year": "2012", "amount": 4
+       }
+    ]
+},
+
+{
+ "municipality": "Dietikon",
+ "name": "total", "amount": 65,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 3
+    },
+    {
+     "name": "rooms_2", "amount": 4
+    },
+    {
+     "name": "rooms_3", "amount": 17
+    },
+    {
+     "name": "rooms_4", "amount": 26
+    },
+    {
+     "name": "rooms_5", "amount": 15
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 88
+      },
+      {
+       "year": "2008", "amount": 57
+      },
+      {
+       "year": "2009", "amount": 62
+      },
+      {
+       "year": "2010", "amount": 92
+      },
+      {
+       "year": "2011", "amount": 51
+      } ,
+       {
+        "year": "2012", "amount": 65
+       }
+    ]
+},
+
+{
+ "municipality": "Oetwil",
+ "name": "total", "amount": 8,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 3
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 1
+    },
+    {
+     "name": "rooms_4", "amount": 2
+    },
+    {
+     "name": "rooms_5", "amount": 2
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 9
+      },
+      {
+       "year": "2008", "amount": 13
+      },
+      {
+       "year": "2009", "amount": 2
+      },
+      {
+       "year": "2010", "amount": 5
+      },
+      {
+       "year": "2011", "amount": 10
+      } ,
+       {
+        "year": "2012", "amount": 8
+       }
+    ]
+},
+
+{
+ "municipality": "Schlieren",
+ "name": "total", "amount": 6,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 0
+    },
+    {
+     "name": "rooms_2", "amount": 0
+    },
+    {
+     "name": "rooms_3", "amount": 4
+    },
+    {
+     "name": "rooms_4", "amount": 2
+    },
+    {
+     "name": "rooms_5", "amount": 0
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 38
+      },
+      {
+       "year": "2008", "amount": 6
+      },
+      {
+       "year": "2009", "amount": 1
+      },
+      {
+       "year": "2010", "amount": 13
+      },
+      {
+       "year": "2011", "amount": 4
+      } ,
+       {
+        "year": "2012", "amount": 6
+       }
+    ]
+},
+
+{
+ "municipality": "Urdorf",
+ "name": "total", "amount": 26,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 7
+    },
+    {
+     "name": "rooms_2", "amount": 1
+    },
+    {
+     "name": "rooms_3", "amount": 8
+    },
+    {
+     "name": "rooms_4", "amount": 7
+    },
+    {
+     "name": "rooms_5", "amount": 3
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 53
+      },
+      {
+       "year": "2008", "amount": 16
+      },
+      {
+       "year": "2009", "amount": 19
+      },
+      {
+       "year": "2010", "amount": 26
+      },
+      {
+       "year": "2011", "amount": 14
+      },
+      {
+       "year": "2012", "amount": 26
+      }
+    ]
+},
+
+{
+ "municipality": "Spreitenbach",
+ "name": "total", "amount": 23,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 2
+    },
+    {
+     "name": "rooms_2", "amount": 7
+    },
+    {
+     "name": "rooms_3", "amount": 5
+    },
+    {
+     "name": "rooms_4", "amount": 4
+    },
+    {
+     "name": "rooms_5", "amount": 5
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 49
+      },
+      {
+       "year": "2008", "amount": 18
+      },
+      {
+       "year": "2009", "amount": 21
+      },
+      {
+       "year": "2010", "amount": 25
+      },
+      {
+       "year": "2011", "amount": 17
+      } ,
+       {
+        "year": "2012", "amount": 23
+       }
+    ]
+},
+
+{
+ "municipality": "Benchmark",
+ "name": "total", "amount": 50,
+ "children": [
+    {
+     "name": "rooms_1", "amount": 10
+    },
+    {
+     "name": "rooms_2", "amount": 10
+    },
+    {
+     "name": "rooms_3", "amount": 10
+    },
+    {
+     "name": "rooms_4", "amount": 10
+    },
+    {
+     "name": "rooms_5", "amount": 10
+    }
+  ],
+  "history": [
+      {
+       "year": "2007", "amount": 5
+      },
+      {
+       "year": "2008", "amount": 10
+      },
+      {
+       "year": "2009", "amount": 20
+      },
+      {
+       "year": "2010", "amount": 30
+      },
+      {
+       "year": "2011", "amount": 40
+      } ,
+       {
+        "year": "2012", "amount": 50
+       }
+    ]
+}
+]

@@ -1,0 +1,193 @@
+[
+{
+ "municipality": "Wiedikon",
+ "history": [
+    {
+     "year": "2007", "amount": 17
+    },
+    {
+     "year": "2008", "amount": 6
+    },
+    {
+     "year": "2009", "amount": 5
+    },
+    {
+     "year": "2010", "amount": 13
+    },
+    {
+     "year": "2011", "amount": 4
+    },
+   {
+    "year": "2012", "amount": 22
+   }
+  ]
+},
+
+{
+ "municipality": "Albisrieden",
+ "history": [
+    {
+     "year": "2007", "amount": 13
+    },
+    {
+     "year": "2008", "amount": 3
+    },
+    {
+     "year": "2009", "amount": 3
+    },
+    {
+     "year": "2010", "amount": 4
+    },
+    {
+     "year": "2011", "amount": 9
+    },
+    {
+     "year": "2012", "amount": 6
+    }
+  ]
+},
+
+{
+ "municipality": "Altstetten",
+ "history": [
+    {
+     "year": "2007", "amount": 8
+    },
+    {
+     "year": "2008", "amount": 5
+    },
+    {
+     "year": "2009", "amount": 4
+    },
+    {
+     "year": "2010", "amount": 5
+    },
+    {
+     "year": "2011", "amount": 10
+    } ,
+     {
+      "year": "2012", "amount": 4
+     }
+  ]
+},
+
+{
+ "municipality": "Dietikon",
+ "history": [
+    {
+     "year": "2007", "amount": 88
+    },
+    {
+     "year": "2008", "amount": 57
+    },
+    {
+     "year": "2009", "amount": 62
+    },
+    {
+     "year": "2010", "amount": 92
+    },
+    {
+     "year": "2011", "amount": 51
+    } ,
+     {
+      "year": "2012", "amount": 65
+     }
+  ]
+},
+
+{
+ "municipality": "Oetwil",
+ "history": [
+    {
+     "year": "2007", "amount": 9
+    },
+    {
+     "year": "2008", "amount": 13
+    },
+    {
+     "year": "2009", "amount": 2
+    },
+    {
+     "year": "2010", "amount": 5
+    },
+    {
+     "year": "2011", "amount": 10
+    } ,
+     {
+      "year": "2012", "amount": 8
+     }
+  ]
+},
+
+{
+ "municipality": "Schlieren",
+ "history": [
+    {
+     "year": "2007", "amount": 38
+    },
+    {
+     "year": "2008", "amount": 6
+    },
+    {
+     "year": "2009", "amount": 1
+    },
+    {
+     "year": "2010", "amount": 13
+    },
+    {
+     "year": "2011", "amount": 4
+    } ,
+     {
+      "year": "2012", "amount": 6
+     }
+  ]
+},
+
+{
+ "municipality": "Urdorf",
+ "history": [
+    {
+     "year": "2007", "amount": 53
+    },
+    {
+     "year": "2008", "amount": 16
+    },
+    {
+     "year": "2009", "amount": 19
+    },
+    {
+     "year": "2010", "amount": 26
+    },
+    {
+     "year": "2011", "amount": 14
+    },
+    {
+     "year": "2012", "amount": 26
+    }
+  ]
+},
+
+{
+ "municipality": "Spreitenbach",
+ "history": [
+    {
+     "year": "2007", "amount": 49
+    },
+    {
+     "year": "2008", "amount": 18
+    },
+    {
+     "year": "2009", "amount": 21
+    },
+    {
+     "year": "2010", "amount": 25
+    },
+    {
+     "year": "2011", "amount": 17
+    } ,
+     {
+      "year": "2012", "amount": 23
+     }
+  ]
+}
+]
